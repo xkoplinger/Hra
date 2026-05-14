@@ -1,12 +1,12 @@
 Na stiahnute by malo stačiť toto
-cd ~/ros2_ws/src
+cd ~/ros2_ws/src,
 git clone https://github.com/xkoplinger/Hra.git vacuum_game
 
 Malo by sa to po staihnutí premenovať ako vacuum_game
 
 Potom:
-cd ~/ros2_ws
-colcon build --packages-select vacuum_game
+cd ~/ros2_ws,
+colcon build --packages-select vacuum_game,
 source install/setup.bash
 
 A cez jednotlive terminály to spustiť takto:
