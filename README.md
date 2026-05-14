@@ -18,3 +18,5 @@ A cez jednotlive terminály to spustiť takto:
 5. ros2 service call /reset_game std_srvs/srv/Empty  Reset hry
 
 Takto by to malo fungovať, v tom media su aj tie videa kde som to mal nahráte ako to ukazujem. A potom Nastavenia tam som nahral všetko ako som mal spravené v rviz
+
+(Pri tom rviz2 pri odometrii mám preklep, tam má byť odom namiesto adam)
